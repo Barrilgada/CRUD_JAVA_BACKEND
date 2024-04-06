@@ -4,7 +4,7 @@
   
 <p>Simple CRUD in java with database connection (Mysql)  
 
-  # 📁📔📓📒📝📔📓 Access
+  # 📝 Access
 
 **Você pode acessar o código fonte do projeto!**
   

@@ -6,7 +6,7 @@
 
   # 📝 Access
 
-**Você pode acessar o código fonte do projeto!**
+**You can access the source code!**
   
   ## ✔️ Technologies used
   
